@@ -13,6 +13,8 @@ Link: https://plotly.com/python/troubleshooting/
 
 ![](./images/day_wise_cases.png)
 
+<h2>Bar Charts(Logarithmic)</h2>
+
 ![](./images/day_wise_cases_log.png)
 
 <h2>World Map of Impact</h2>
