@@ -14,4 +14,4 @@ Link: https://plotly.com/python/troubleshooting/
 
 ![](./map/maps.png)
 
-confirmed_choropleth.png
+![](./choropleth/confirmed_choropleth.png)
