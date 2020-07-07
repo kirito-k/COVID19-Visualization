@@ -1,10 +1,7 @@
-# COVID19-Visualization
-Overview of the current situation of COVID19 impact worldwide
+# COVID19 Visualizations
+The following illustrations are of current situation of COVID19 impact worldwide.
 
-Note: If the plotly graphs are not visible on jupyter notebook/ jupyterlab, follow this troubleshoot guide link for more information. 
-Link: https://plotly.com/python/troubleshooting/
-
-
+<h1>Data Visualization</h1>
 <h2>Area Chart with Slider</h2>
 
 ![](./images/cases_over_time.png)
@@ -24,3 +21,12 @@ Link: https://plotly.com/python/troubleshooting/
 <h2>Choropleth</h2>
 
 ![](./choropleth/confirmed_choropleth.png)
+
+
+## Implementation Instructions
+- Clone the repository
+- Open the file 'covid19 visualization.ipynb' in jupyter notebook or jupyter lab or kaggle's VM(recommended).
+- Run the file
+
+<b>Note:</b> If the plotly graphs are not visible on jupyter notebook/ jupyterlab, follow this troubleshoot guide link for more information. 
+Link: https://plotly.com/python/troubleshooting/
