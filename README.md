@@ -29,4 +29,5 @@ The following illustrations are of current situation of COVID19 impact worldwide
 - Run the file
 
 <b>Note:</b> If the plotly graphs are not visible on jupyter notebook/ jupyterlab, follow this troubleshoot guide link for more information. 
+
 Link: https://plotly.com/python/troubleshooting/
