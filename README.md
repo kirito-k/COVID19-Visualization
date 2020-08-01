@@ -3,6 +3,12 @@ As the economy is still struggling with the impact of the covid19 pandemic, all 
 
 This project showcases many eye-catching visualizations. I have majorly focused on confirmed cases, deaths, recovered, and percentage data of growth globally and county wise in the United States. 
 
+## Pre-requisites
+- For the visualization, I am using Kaggle’s virtual machines instead of the local Jupyter lab or Jupiter notebook. It is much easier to import-export datasets as well as avoid some issues which I faced during visualization.
+<b>Note:</b>There are some issues in the Jupiter lab/notebook while showing Plotly graphs. This occurs due to multiple versions of Python. You could resolve it using these troubleshooting methods.
+- For more information on Kaggle, refer to this article from GeeksforGeeks[31].
+- Import required libraries.
+
 <h1>Data Visualization</h1>
 <h2>Area Chart with Slider</h2>
 
