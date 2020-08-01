@@ -15,28 +15,6 @@ covid19-county dataset URL: https://www.kaggle.com/devavratkalam/covid19county
 usa-county-info dataset URL: https://www.kaggle.com/kkbk58901/usa-county-info
 
 
-<h1>Data Visualization</h1>
-<h2>Area Chart with Slider</h2>
-
-![](./images/cases_over_time.png)
-
-<h2>Bar Charts</h2>
-
-![](./images/day_wise_cases.png)
-
-<h2>Bar Charts(Logarithmic)</h2>
-
-![](./images/day_wise_cases_log.png)
-
-<h2>World Map of Impact</h2>
-
-![](./map/maps.png)
-
-<h2>Choropleth</h2>
-
-![](./choropleth/confirmed_choropleth.png)
-
-
 ## Implementation Instructions
 - Clone the repository
 - Open the file 'covid19 visualization.ipynb' in jupyter notebook or jupyter lab or kaggle's VM(recommended).
@@ -45,3 +23,52 @@ usa-county-info dataset URL: https://www.kaggle.com/kkbk58901/usa-county-info
 <b>Note:</b> If the plotly graphs are not visible on jupyter notebook/ jupyterlab, follow this troubleshoot guide link for more information. 
 
 Link: https://plotly.com/python/troubleshooting/
+
+## Global Stats
+### Line Tree Map
+
+![](./images/Line_TreeMap.png)
+
+### Pie Chart
+
+![](./images/Bar-Chart.png)
+
+### Area Chart
+
+![](./images/Area-Chart.png)
+
+### Bar Chart
+
+![](./images/Bar-Chart.png)
+
+### Bar Chart Logarithmic
+
+![](./images/Bar-Chart-Log.png)
+
+### Confirmed cases Map
+
+![](./map/Confirmed_Map.png)
+
+### Deceased cases Map
+
+![](./map/Deceased_Map.png)
+
+## US based Stats
+
+![](./images/Attribute_Terminology.png)
+
+### County wise Confirmed cases Choropleth
+
+![](./choropleth/Confirmed_Choropleth.png)
+
+### County wise Deceased cases Choropleth
+
+![](./choropleth/Deceased_Choropleth.png)
+
+### County wise Confirmed cases TreeMap
+
+![](./map/Confirmed_TreeMap.png)
+
+### State-County wise Deceased TreeMap
+
+![](./map/Deceased_TreeMap.png)
