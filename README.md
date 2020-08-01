@@ -17,7 +17,7 @@ usa-county-info dataset URL: https://www.kaggle.com/kkbk58901/usa-county-info
 
 ## Implementation Instructions
 - Clone the repository
-- Open the file 'covid19 visualization.ipynb' in jupyter notebook or jupyter lab or kaggle's VM(recommended).
+- Open the file 'covid19_visualization.ipynb' in jupyter notebook or jupyter lab or kaggle's VM(recommended).
 - Run the file
 
 <b>Note:</b> If the plotly graphs are not visible on jupyter notebook/ jupyterlab, follow this troubleshoot guide link for more information. 
