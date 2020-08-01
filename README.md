@@ -11,6 +11,7 @@ This project showcases many eye-catching visualizations. I have majorly focused 
 - We are using two county datasets. One from covid19-county and another from usa-county-info Kaggle datasets. You have to either download the files separately (in case you are using local Jupiter) or import these datasets using the ‘Add Data’ option on the right side of Kaggle VM.
 
 covid19-county dataset URL: https://www.kaggle.com/devavratkalam/covid19county
+
 usa-county-info dataset URL: https://www.kaggle.com/kkbk58901/usa-county-info
 
 
