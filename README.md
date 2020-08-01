@@ -5,9 +5,14 @@ This project showcases many eye-catching visualizations. I have majorly focused 
 
 ## Pre-requisites
 - For the visualization, I am using Kaggle’s virtual machines instead of the local Jupyter lab or Jupiter notebook. It is much easier to import-export datasets as well as avoid some issues which I faced during visualization.
+
 <b>Note:</b>There are some issues in the Jupiter lab/notebook while showing Plotly graphs. This occurs due to multiple versions of Python. You could resolve it using these troubleshooting methods.
-- For more information on Kaggle, refer to this article from GeeksforGeeks[31].
-- Import required libraries.
+- For more information on Kaggle, refer to this article from GeeksforGeeks.
+- We are using two county datasets. One from covid19-county and another from usa-county-info Kaggle datasets. You have to either download the files separately (in case you are using local Jupiter) or import these datasets using the ‘Add Data’ option on the right side of Kaggle VM.
+
+covid19-county dataset URL: https://www.kaggle.com/devavratkalam/covid19county
+usa-county-info dataset URL: https://www.kaggle.com/kkbk58901/usa-county-info
+
 
 <h1>Data Visualization</h1>
 <h2>Area Chart with Slider</h2>
