@@ -33,7 +33,7 @@ Link: https://plotly.com/python/troubleshooting/
 
 ### Pie Chart
 
-![](./images/Bar-Chart.png)
+![](./images/Pie-Chart.png)
 
 ### Area Chart
 
